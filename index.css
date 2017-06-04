@@ -1,0 +1,67 @@
+html{
+  text-align: center;
+    font-family: arial;
+}
+
+.date{
+  font-weight: bold;
+  color: #F44336;
+  background-color: #000000;
+  border-radius: 50px;
+  font-size: 30px;
+  padding: 5px 10px 5px 10px;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+body {
+    background-image: url(http://img.freepik.com/free-vector/flat-background-of-time-management_1302-799.jpg?size=338&ext=jpg);
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 14px;
+}
+
+body{
+    font-size: 40px;
+}
+
+p {
+    font-size: 14px;
+}
+
+body {
+    border: 1px solid black;
+    outline-color: red;
+}
+
+body {
+    border: 1px solid black;
+    outline-style: double;
+    outline-color: red;
+}
+
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+ul{
+    list-style: none;
+    background-color: #D3D3D3;
+}
+
+.completed-todo{
+  text-decoration: line-through;
+}
